@@ -1,0 +1,48 @@
+{
+  "item": {
+    "id": "979848885700",
+    "restype": "watchface",
+    "name": "活力环屏",
+    "description": "环形活力进度环搭配多维度健康模块，时间、运动、心率、睡眠信息一屏直观掌握。\n官方交流群876535695",
+    "preview": [
+      "media/QQ20261019-131813.png"
+    ],
+    "icon": "media/表盘介绍与海报生成 (1)-04.png",
+    "cover": "media/表盘介绍与海报生成 (1)-03.png",
+    "author": [
+      {
+        "name": "MaoKe",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官方群",
+      "url": "https://qm.qq.com/q/lHCW3WJkgU",
+      "icon": "chats-circle"
+    },
+    {
+      "title": "爱发电支持",
+      "url": "https://afdian.com/a/L204387260",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/活力环屏.bin",
+      "versionCode": 65536
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/活力环屏.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979848885700/main/wallpaper/wallpaper.json"
+    }
+  }
+}
